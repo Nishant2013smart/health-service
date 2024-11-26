@@ -1,0 +1,9 @@
+:root {
+  --backgroundWhite: #ebedff;
+  --blueDark: #affcba;
+  --fadedGray: #ccbabc;
+  --whiteBold: #fff;
+  --blackBold: #000;
+  --whiteShadow: 0px 0px 10px 5px rgba(241, 241, 246, 0.8);
+  --blackShadow: 0px 0px 10px 5px rgba(86, 87, 90, 0.8);
+}
